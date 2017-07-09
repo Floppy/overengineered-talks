@@ -6,7 +6,7 @@ We're after talks about stupidly overengineered projects that serve no particula
 
 ## Submitting a talk
 
-To submit a talk, copy `example.yml`, fill in the details, and send a pull request.
+To submit a talk, copy `example.md`, fill in the details, and send a pull request.
 
 ## How is this overengineered?
 

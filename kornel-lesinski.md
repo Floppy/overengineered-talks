@@ -1,5 +1,5 @@
 ---
-title: <?php $babel = json_encode(['presets' => ['php']]); ?>
+title: &lt;?php $babel = json_encode(['presets' => ['php']]); ?>
 duration: PT30M
 speaker: Kornel Lesiński
 contact: kornel@geekhood.net
